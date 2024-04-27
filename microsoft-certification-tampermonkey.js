@@ -2,7 +2,8 @@
 // @name         Add Certifications Renewal Dates on Microsoft Learn Dashboard
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Add Certifications Renewal Dates on Microsoft Learn Dashboard
+// @license      GNU General Public License (https://www.gnu.org/licenses/gpl-3.0.en.html)
+// @description  Script to add Certifications Renewal Dates on Microsoft Learn Dashboard
 // @author       Francesco Paolo Piga
 // @match        https://learn.microsoft.com/*/users/*/credentials*
 // @grant        none
